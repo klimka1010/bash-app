@@ -1,0 +1,64 @@
+<collectionManager>
+    <collection>
+        <id>1726056484437</id>
+        <name>rettr</name>
+        <coordinates>
+            <x>3425.0</x>
+            <y>345</y>
+        </coordinates>
+        <area>345.0</area>
+        <population>435</population>
+        <metersAboveSeaLevel>435.0</metersAboveSeaLevel>
+        <climate>Влажность суб тропики</climate>
+        <government>Коммунизм</government>
+        <standardOfLiving>Очень высокий</standardOfLiving>
+        <creation_date>2024-09-11T15:08:04.439090+03:00[Europe/Moscow]</creation_date>
+    </collection>
+    <collection>
+        <id>1726070852841</id>
+        <name>tolyatty</name>
+        <coordinates>
+            <x>134.0</x>
+            <y>423</y>
+        </coordinates>
+        <area>1324.0</area>
+        <population>432</population>
+        <metersAboveSeaLevel>34.0</metersAboveSeaLevel>
+        <climate>Влажность континента</climate>
+        <government>Тимократия</government>
+        <standardOfLiving>Очень высокий</standardOfLiving>
+        <creation_date>2024-09-11T19:07:32.843318+03:00[Europe/Moscow]</creation_date>
+    </collection>
+    <collection>
+        <id>1726501578197</id>
+        <name>spb</name>
+        <coordinates>
+            <x>123.0</x>
+            <y>312</y>
+        </coordinates>
+        <area>123123.0</area>
+        <population>8000000</population>
+        <metersAboveSeaLevel>1.0</metersAboveSeaLevel>
+        <climate>Влажность суб тропики</climate>
+        <government>Меритократия</government>
+        <standardOfLiving>Средний</standardOfLiving>
+        <creation_date>2024-09-16T18:46:18.199562+03:00[Europe/Moscow]</creation_date>
+    </collection>
+    <collection>
+        <id>1716394597927</id>
+        <name>Tolyatti</name>
+        <coordinates>
+            <x>123.0</x>
+            <y>321</y>
+        </coordinates>
+        <area>2.3457612E7</area>
+        <population>800000</population>
+        <metersAboveSeaLevel>10.0</metersAboveSeaLevel>
+        <climate>Океаник</climate>
+        <government>Коммунизм</government>
+        <standardOfLiving>Очень низкий</standardOfLiving>
+        <creation_date>2024-05-22T19:16:37.928921+03:00[Europe/Moscow]</creation_date>
+    </collection>
+    <creation_date_collectionManager>20 24-09-18T19:49:47.372785+03:00[Europe/Moscow]</creation_date_collectionManager>
+    <history/>
+</collectionManager>
